@@ -26,3 +26,39 @@ h1 {
     color: brown;
 }
 
+.Ingredient.header, .Step.header, .description.header{
+    font-size: 40px;
+}
+
+.ingredient.list, .step.list{
+    font-size: 20px;
+}
+
+.description.para{
+    font-size: 30px;
+}
+
+.ingredient.section{
+    padding: 20px;
+}
+
+.step.section{
+    padding: 20px;
+}
+
+.description{
+    padding: 10px;
+
+}
+
+.Home{
+    font-size: 50px;
+    color: orange;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    /*margin: 10px;*/
+}
